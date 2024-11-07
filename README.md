@@ -54,7 +54,7 @@ The admin and inventory features allow efficient order and product management:
 > **Note**: This repository contains the frontend code only. For the backend functionalities (written in Node.js), please contact me to purchase the backend code.
 
 ## ⚙️ Tech Stack
-- **Frontend**: Vite, ReactJS, Tailwind CSS
+- **Frontend**: Vite, ReactJS, Bootstrap 5 CSS
 - **State Management**: React Context API, WebSocket for real-time updates
 - **Map Integration**: Map APIs for precise location and map-based services
 - **Payment Integration**: Multiple gateways for a streamlined checkout process
