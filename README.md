@@ -47,7 +47,7 @@ The admin and inventory features allow efficient order and product management:
 ## 🔗 Contact & Support
 For inquiries, customizations, or support, feel free to reach out:
 
-**Email**: your-email@example.com
+**Email**: iamthedpk@gmail.com
 
 ## 📜 License
 This project is licensed under the MIT License, allowing for personal use and modification. However, redistribution or commercial use of this code without permission is prohibited. This license applies to the frontend code only.
