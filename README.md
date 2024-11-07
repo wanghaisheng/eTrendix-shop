@@ -5,6 +5,19 @@ Welcome to the eTrendix repository, the frontend codebase for an advanced e-comm
 ## 🌐 Live Demo
 Check out the full version of this site here: [eTrendix Live Demo](https://etrendix.netlify.app)
 
+## 🔑 Demo Login Details
+
+To explore eTrendix with store login access, you can use the following credentials:
+
+- **Phone Number**: `8888888888`
+- **OTP**: `1234` (Note: OTP is the same for all users)
+
+For product availability based on location, please use the following sample pincode:
+
+- **Pincode**: `110008` or **Location**: Delhi
+
+These details allow you to experience the full functionality of the platform as both a customer and a store manager.
+
 ## ✨ Features
 
 eTrendix provides a complete set of functionalities you’d expect from a modern e-commerce web app:
