@@ -6,6 +6,7 @@ Welcome to the eTrendix repository, the frontend codebase for an advanced e-comm
 Check out the full version of this site here: [eTrendix Live Demo](https://etrendix.netlify.app)
 > **Note**: The Node.js server may go to sleep when inactive, so please allow a few seconds for it to wake up when accessing the demo.
 
+![{34AB4884-D868-4629-9E25-E275CBE08EC4}](https://github.com/user-attachments/assets/9552b334-d927-455c-a007-9fff890583b8)
 
 ## 🔑 Demo Login Details
 
