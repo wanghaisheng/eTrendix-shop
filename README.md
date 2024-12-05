@@ -1,3 +1,6 @@
+12o6
+
+
 # eTrendix - E-commerce Web App (Frontend) - Vite, React.js & Node.js
 
 Welcome to the eTrendix repository, the frontend codebase for an advanced e-commerce web application. Built as a Progressive Web App (PWA) using Vite and ReactJS, eTrendix delivers a smooth and responsive shopping experience, with extensive functionality aimed at providing a seamless and feature-rich platform. The full application, including backend services, is currently tailored for users in India, but it can be expanded or customized for other regions upon request.
